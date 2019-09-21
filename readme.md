@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>🏀 Mark Steele's Personal Site</title>
+🏀 Mark Steele's Personal Site
 </head>
 
 <body>
@@ -42,7 +42,7 @@
     <li>Sneakers
       <li>Web Development
   </ol>
-<img src="NBA Logo.jpg" alt="NBA Logo"
+
 </body>
 
 </html>
