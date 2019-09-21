@@ -7,20 +7,14 @@
 </head>
 
 <body>
-  <img src="https://media.licdn.com/dms/image/C4E03AQGB-zXv-JUzbA/profile-displayphoto-shrink_200_200/0?e=1552521600&v=beta&t=AJd0mAA49XgHyvlIilSvYWAbJsdrWqfMpClp1AQ6j-g" alt="Mark Steele Profile Picture">
   <h1>Mark Steele</h1>
   <p>
     <em>Bentley University Class of 2019</em>
   </p>
-  <p>
-    <strong>Interested in the business of sport</strong>
-  </p>
-  <p>
-    <a href="www.marksteelenba.com">Check out my NBA Blog</a>
-  </p>
+ </p>
   <h2>About This Site</h2>
   <p>
-    This is a personal page that will serve as a way to learn and practice my web development skills. It will include biographical and resume information.
+    This is a personal page that will serve as a way to learn and practice my web development skills. It will include biographical information as well as NBA and general sports writing.
   </p>
   <hr size=3 noshade>
   <h3>Education</h3>
@@ -46,6 +40,7 @@
     <li>Basketball
     <li>Art/Design
     <li>Sneakers
+      <li>Web Development
   </ol>
 <img src="NBA Logo.jpg" alt="NBA Logo"
 </body>
